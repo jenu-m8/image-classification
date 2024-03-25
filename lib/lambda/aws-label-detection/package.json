@@ -1,0 +1,14 @@
+{
+  "name": "label-detection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.470.0",
+    "@aws-sdk/client-rekognition": "^3.470.0",
+    "@aws-sdk/client-s3": "^3.470.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.130"
+  }
+}
